@@ -1,0 +1,10 @@
+.filter-menu select {
+  padding: 10px;
+  border-radius: 7px;
+  font-size: 18px;
+  color: white;
+  background-color: rgba(144, 2, 6, 1);
+  border-style: none;
+  border-radius: 5px;
+  outline: none;
+}
